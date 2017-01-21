@@ -232,12 +232,12 @@ button {
 	margin-right: 15px;
 }
 
-i {
+.social i {
 	color: #000;
 	background-color: #B97DE8;
 	display: inline-block;
 	float: right;
-	margin: 50px 15px;
+	margin: 15px 15px;
 	border-radius: 50%;
 	padding: 8px;
 }
